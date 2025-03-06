@@ -3,7 +3,7 @@ export const siteConfig = {
   author: "znzzi",
   description: "Accelerate GitHub releases, archives, and project files",
   domain: "proxy.znzzi.com",
-  githubRepo: "https://github.com/z1zhang/",
+  githubRepo: "https://github.com/z1zhang/github-accelerator",
   previewableExtensions: [
     // Text files
     ".txt",
