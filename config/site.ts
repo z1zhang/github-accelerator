@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "GitHub Accelerator",
   author: "znzzi",
   description: "Accelerate GitHub releases, archives, and project files",
-  domain: "proxy.znzzi.cn",
+  domain: "proxy.znzzi.com",
   githubRepo: "https://github.com/z1zhang/",
   previewableExtensions: [
     // Text files
